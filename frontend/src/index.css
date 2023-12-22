@@ -1,0 +1,40 @@
+/* Reset some default styles for the header and anchor */
+header, h1, a {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin:0;
+  font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #333; /* Choose your desired background color */
+  color: white;
+  padding: 10px 0; /* Adjust padding as needed */
+}
+
+/* Center the heading within the container */
+.container {
+  text-align: center;
+}
+
+/* Style the link within the header */
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Style the link on hover */
+a:hover {
+  text-decoration: none;
+  color: aqua;
+}
+
+.pages{
+  max-width: 1400px;
+  padding: 20px;
+  margin: 0 auto;
+}
