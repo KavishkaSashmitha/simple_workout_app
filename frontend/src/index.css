@@ -3,16 +3,16 @@
 
 /* layout */
 :root {
-  --primary: #1aac83;
-  --error: #e7195a;
+  --primary: #DC8686;
+  --error: #B06161;
 }
 body {
-  background: #f1f1f1;
+  background: #7ED7C1;
   margin: 0;
   font-family: "Poppins";
 }
 header {
-  background: #fff;
+  background: #F0DBAF;
 }
 header .container {
   max-width: 1400px;
